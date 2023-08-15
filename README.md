@@ -3,7 +3,7 @@
 * Its code is terrible.  
 
 # Build
-**Note:You need to install g++**   
+**Note:You need to install g++ before build**   
 First,you should clone the repo, like this:  
 `git clone https://github.com/EMEnderMan2581/Calculator-CLI.git`  
 Second,go to the src folder:  
