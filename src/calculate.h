@@ -9,4 +9,4 @@
 
 #include<stdexcept> //calculate.cpp
 
-double calculate(double op1, char op, double op2);
+double calculate(double value1, char op, double value2);
