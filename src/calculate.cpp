@@ -2,9 +2,9 @@
 
 using namespace std;
 
-double calculate(double operand1, char op, double operand2)
+long double calculate(long double operand1, char op, long double operand2)
 {
-	double result = 0.0;
+	long double result = 0.0L;
 	switch (op)
 	{
 	case '+':
